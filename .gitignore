@@ -1,0 +1,5 @@
+#Ignorar la carpeta node modules
+node_modules
+
+#IGNORAR LA LLAVE UNICA
+.libreria-itz.pem
